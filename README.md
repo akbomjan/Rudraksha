@@ -1,4 +1,4 @@
 # Rudraksha
-this is the rudraksha ecommerce website
+this is the rudraksha ecommerce website <br>
 this is just test file for a learning purpose. <br>
-okay, this is just learning proccess of github.
+okay, this is just learning proccess of github.<br>
